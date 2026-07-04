@@ -2,7 +2,7 @@
 Me apasiona la tecnología, el diseño gráfico y los videojuegos. Disfruto desarrollando soluciones que faciliten las tareas de los usuarios y exploro continuamente nuevas tecnologías, como frameworks, inteligencia artificial y plugins, para mejorar mis desarrollos.<br>
 
 🔭 Actualmente estoy trabajando en desarrollos web con PHP, tanto en el backend como en el frontend.<br>
-🎓 Estoy estudiando la Carrera en PHP para perfeccionar mis habilidades y avanzar en mis proyectos.<br>
+🎓 Estoy estudiando la Carrera en Licenciatura en Desarrollo de Videojuegos<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=arielcosmelli&theme=github_dark&locale=es&show_icons=true&rank_icon=github)
 
