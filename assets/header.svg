@@ -1,0 +1,138 @@
+
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="gameBg" x1="0" y1="0" x2="600" y2="500">
+<stop stop-color="#020617"/>
+<stop offset="1" stop-color="#24104f"/>
+</linearGradient>
+
+<linearGradient id="devBg" x1="600" y1="0" x2="1200" y2="500">
+<stop stop-color="#ffffff"/>
+<stop offset="1" stop-color="#dbeafe"/>
+</linearGradient>
+
+</defs>
+
+
+<!-- GAME PANEL -->
+
+<rect width="600" height="500" fill="url(#gameBg)"/>
+
+
+
+<!-- SOFTWARE PANEL -->
+
+<rect x="600" width="600" height="500" fill="url(#devBg)"/>
+
+
+
+<!-- CENTRAL DIVIDER -->
+
+<rect x="596" width="8" height="500" fill="#00f7ff">
+
+<animate
+attributeName="opacity"
+values="0.4;1;0.4"
+dur="2s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+
+<!-- GAME DEVELOPER -->
+
+<text x="100" y="130"
+fill="#ffffff"
+font-size="22"
+font-family="monospace"
+letter-spacing="8">
+
+ARIEL COSMELLI
+
+</text>
+
+
+<text x="100" y="230"
+fill="#00f7ff"
+font-size="60"
+font-family="monospace"
+font-weight="bold">
+
+GAME
+
+</text>
+
+
+<text x="100" y="300"
+fill="#a855f7"
+font-size="60"
+font-family="monospace"
+font-weight="bold">
+
+DEVELOPER
+
+</text>
+
+
+<text x="100" y="370"
+fill="#94a3b8"
+font-size="18"
+font-family="monospace">
+
+Unity • C# • Gameplay • Systems
+
+</text>
+
+
+
+
+<!-- SOFTWARE DEVELOPER -->
+
+
+<text x="700" y="130"
+fill="#2563eb"
+font-size="22"
+font-family="monospace"
+letter-spacing="8">
+
+ARIEL COSMELLI
+
+</text>
+
+
+<text x="700" y="230"
+fill="#111827"
+font-size="60"
+font-family="monospace"
+font-weight="bold">
+
+SOFTWARE
+
+</text>
+
+
+<text x="700" y="300"
+fill="#2563eb"
+font-size="60"
+font-family="monospace"
+font-weight="bold">
+
+DEVELOPER
+
+</text>
+
+
+<text x="700" y="370"
+fill="#64748b"
+font-size="18"
+font-family="monospace">
+
+PHP • React • Node.js • AWS
+
+</text>
+
+
+</svg>
