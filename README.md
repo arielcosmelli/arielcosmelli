@@ -34,33 +34,33 @@ Combino desarrollo web con una mirada creativa orientada al diseño y la experie
 
 ## 💻 Stack Tecnológico
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 ### 🎨 Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><br> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><br> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><br> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"><br> <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 
----
+</td>
+
+<td valign="top" width="33%">
 
 ### ⚙️ Backend
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23F05033.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge)
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"><br> <img src="https://img.shields.io/badge/Laravel-%23F05033.svg?style=for-the-badge&logo=laravel&logoColor=white"><br> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"><br> <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge">
 
----
+</td>
+
+<td valign="top" width="33%">
 
 ### 🗄️ Database & Cloud
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"><br> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br> <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"><br> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
+</td>
+</tr>
+</table>
 
 ---
 
