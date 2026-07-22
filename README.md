@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=240&section=header&text=Ariel%20Cosmelli&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Unity%20%7C%20C%23&descAlignY=58&descAlign=50"/>
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollando+experiencias+interactivas...;Game+Dev+en+proceso;Gameplay+%2B+Arquitectura+%2B+Performance;De+la+idea+al+juego" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Construyendo+mundos+interactivos;Gameplay+%2B+Sistemas+%2B+Performance;Arquitectura+de+software+escalable;Del+concepto+al+producto"/>
+
 </div>
 
 
