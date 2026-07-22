@@ -31,3 +31,9 @@ Me apasiona la tecnología, el diseño gráfico y los videojuegos. Disfruto desa
 
 ## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arielcosmelli) 
+
+## 🐍 Snake
+
+![snake](https://raw.githubusercontent.com/arielcosmelli/arielcosmelli/output/github-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/arielcosmelli/arielcosmelli/output/ocean.gif)
