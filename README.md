@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="./assets/header-ariel.svg" width="100%">
+</p>
 
 
 ## Hola 👋, Soy Ariel: 
