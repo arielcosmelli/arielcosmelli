@@ -35,5 +35,3 @@ Me apasiona la tecnología, el diseño gráfico y los videojuegos. Disfruto desa
 ## 🐍 Snake
 
 ![snake](https://raw.githubusercontent.com/arielcosmelli/arielcosmelli/output/github-snake.svg)
-
-![snake gif](https://raw.githubusercontent.com/arielcosmelli/arielcosmelli/output/ocean.gif)
