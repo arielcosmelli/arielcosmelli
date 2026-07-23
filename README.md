@@ -79,5 +79,5 @@ Combino desarrollo web con una mirada creativa orientada al diseño y la experie
 ## 🐍 Actividad
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arielcosmelli/arielcosmelli/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/arielcosmelli/arielcosmelli/output/github-contribution-grid-snake-dark.svg">
 </p>
